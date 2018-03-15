@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58900c04-599f-4462-94be-31b6dcef4833" name="Default" comment="" />
+    <list default="true" id="58900c04-599f-4462-94be-31b6dcef4833" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="gitest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -583,12 +585,12 @@
       <option name="number" value="Default" />
       <updated>1521076861216</updated>
       <workItem from="1521076876287" duration="1092000" />
-      <workItem from="1521080009340" duration="480000" />
+      <workItem from="1521080009340" duration="750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1572000" />
+    <option name="totallyTimeSpent" value="1842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="0" />
